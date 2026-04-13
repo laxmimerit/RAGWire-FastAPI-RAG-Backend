@@ -1,0 +1,23 @@
+# Core web framework
+fastapi
+uvicorn
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+
+# Agent frameworks
+crewai
+agent-framework[all]==1.0.1
+autogen-agentchat
+autogen-core
+autogen-ext[openai]
+
+# RAG
+ragwire
+fastembed
+
+# Utilities
+python-dotenv
