@@ -5,7 +5,7 @@ uvicorn
 # LangChain ecosystem
 langchain
 langchain-core
-langchain-ollama
+langchain-google-genai
 langgraph
 
 # Agent frameworks
