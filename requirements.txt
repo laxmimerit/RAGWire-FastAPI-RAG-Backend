@@ -5,12 +5,12 @@ uvicorn
 # LangChain ecosystem
 langchain
 langchain-core
-langchain-google-genai
+langchain-ollama
 langgraph
 
 # Agent frameworks
 crewai
-agent-framework[all]==1.0.1
+agent-framework-openai
 autogen-agentchat
 autogen-core
 autogen-ext[openai]
